@@ -1,6 +1,6 @@
 <div align='center'>
 
-# Hi! I'm Camila Naomi Kita 
+# Hi! I'm Camila Kita 
 
 Having **graduated in Design** from UFSC (Federal University of Santa Catarina) in 2020, I'm a **Generalist Designer** with a specialization in **Graphic Design** and in **UI/UX Design**. With over 5 years of experience, I've created visually appealing and impactful solutions for companies across various sectors. I've worked collaboratively in teams with professionals from diverse backgrounds and areas to achieve common goals. My projects have included visual identity, print and digital materials, website and app interfaces, as well as product design and packaging. I've also challenged myself in projects involving motion design, 3D, illustration, and even game design. I always strive for excellence in my work, delivering creative and efficient solutions while prioritizing the user experience. **Constantly seeking personal and professional growth, I'm passionate about engaging in projects that encompass different aspects of design.**
 <br />
